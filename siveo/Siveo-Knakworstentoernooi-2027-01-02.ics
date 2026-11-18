@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//S.V. Siveo '60//Maandmail//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Siveo '60
+BEGIN:VEVENT
+UID:knakworstentoernooi-20270102@siveo.nl
+DTSTAMP:20261118T120000Z
+DTSTART:20270102T080000Z
+DTEND:20270102T110000Z
+SUMMARY:Siveo '60 Knakworstentoernooi (jeugd)
+LOCATION:Sportpark De Beemd\, Milandweg 31\, 3474 KK Zegveld
+DESCRIPTION:Knakworstentoernooi voor de jeugd van Siveo '60.\nIn de ochtend
+ \, exacte tijd volgt.\nVragen: activiteiten@siveo.nl
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: knakworstentoernooi Siveo
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//S.V. Siveo '60//Maandmail//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Siveo '60
+BEGIN:VEVENT
+UID:darttoernooi-20270102@siveo.nl
+DTSTAMP:20261118T120000Z
+DTSTART:20270102T130000Z
+DTEND:20270102T170000Z
+SUMMARY:Siveo '60 Darttoernooi (duo's\, 2 tegen 2)
+LOCATION:Kantine S.V. Siveo '60\, Sportpark De Beemd\, Milandweg 31\, 3474 
+ KK Zegveld
+DESCRIPTION:Darttoernooi in duo's (2 tegen 2).\nAanwezig vanaf 14:00 uur.\n
+ Inschrijfgeld: € 30 per duo.\nOpgeven én betalen vóór 18 december via
+  https://q.me-qr.com/9avax44u\nVragen: activiteiten@siveo.nl\nS.V. Siveo '
+ 60\, dat doen we samen.
+URL:https://q.me-qr.com/9avax44u
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Siveo darttoernooi
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
